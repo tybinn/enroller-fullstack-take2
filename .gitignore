@@ -1,0 +1,13 @@
+.settings/
+bin
+.classpath
+.project
+.class
+.logo
+/target/
+.DS_Store
+.idea/
+*.iml
+src/main/resources/public/
+*.db
+.vscode
